@@ -11,6 +11,8 @@
 #include <assert.h>
 #include "commander.h"
 
+int test = 0;
+
 /*
  * Output error and exit.
  */
